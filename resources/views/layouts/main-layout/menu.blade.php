@@ -2,7 +2,7 @@
       <div class="app-brand demo">
           <a href="index.html" class="app-brand-link">
               <span class="app-brand-logo">
-                  <img style="width:150px" src="{{ asset('logo-mutiarastory.png') }}" alt="">
+                  <img style="width:150px" src="{{ asset('logo-mesjid-apps.png') }}" alt="">
               </span>
               {{-- <span class="app-brand-text demo menu-text fw-bold">CAT</span> --}}
           </a>

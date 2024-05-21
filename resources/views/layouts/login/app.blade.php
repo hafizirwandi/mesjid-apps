@@ -13,7 +13,7 @@
     <meta name="description" content="" />
 
     <!-- Favicon -->
-    <link rel="icon" type="image/x-icon" href="{{ asset('favicon-tutwurihandayani.png') }}" />
+    <link rel="icon" type="image/x-icon" href="{{ asset('favicon-mesjid-apps.png') }}" />
 
     <!-- Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com" />
@@ -68,8 +68,7 @@
                         <div class="app-brand justify-content-center mb-4 mt-2">
                             <a href="{{ route('login') }}" class="app-brand-link gap-2">
                                 <span class="app-brand-logo">
-                                    <img style="height:100px" src="{{ asset('logo-mutiarastory.png') }}"
-                                        alt="">
+                                    <img style="height:100px" src="{{ asset('logo-mesjid-apps.png') }}" alt="">
 
                                 </span>
 
